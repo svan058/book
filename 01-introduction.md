@@ -34,11 +34,7 @@ An anecdote I have is from my own life on project rescue where I had been asked 
 
 Another example can be found in split-brain studies where a patient has had their left and right hemisphere's surgically split are the cleanest version of this. You tell one side of them to reach out and grab an apple, then ask the other why it did that. The hemisphere that has no idea why will not say "I don't know." It says, "because I like the colour red." It confabulates a plausible reason on the spot and believes it. When AI does this we call it hallicination.
 
-We all do this. We act, or we decide, and then we reach back and invent a rationale for why we decided or acted the way we did, and the rationale becomes the story. A great deal of who you are is that running self-narration, you are the product of your own story. 
-
-You are the main character of it, except you're also not the main character, you're just a character, and so is everyone else in your life.
-
-That's the inside view. Now turn it around, because the inside view is only half of you.
+We all do this. We act, or we decide, and then we reach back and invent a rationale for why we decided or acted the way we did, and the rationale becomes the story. A great deal of who you are is that running self-narration, you are the product of your own story. While you are the main character, you're not the only character where is where peopling comes in.
 
 ### A person is a distributed thing
 
