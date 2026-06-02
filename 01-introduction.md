@@ -16,10 +16,15 @@ The other thing I studied were people, which is the central theme of this book. 
 
 The only real difference between the dream and the waking world is that in a dream you're offline, generating the whole thing out of your own memories and imagination, whereas when you are awake you've got your senses feeding you fresh data shared with others. Your brain is hallucinating reality either way, but as Anil Seth says, reality is just the hallucination we agree on. If we all agree the tree is green, and we can all see the tree, then the tree is real, it is part of our shared context.
 
-Everyone wants to know whether AI is conscious, or whether it will be. I think that's the wrong question. Is to break down these components of what makes us human and then see which ones AI's can be programmed to do and I would break that down to three components of shared mental simulation (or shared halicination):
-1. Confabulation: How do your minds bring all our disparate thoughts like from the dream car crash into a coherent narrative of who we are and why we do what we do
-2. Peopling: How do we model people and their relationships with the central person being ourselves
-3. Shared Context: How do we build and maintain shared context in mental models of the world around us, including more abstract world models such as corporations, projects and religions
+Everyone wants to know whether AI is conscious, or whether it will be. I think that's the wrong question. Not a hard question, a wrong one. It sends you chasing the inner light of the machine, when the thing that actually matters is happening out in the open, between people, where you can watch it.
+
+The useful question is the other way round. Take what we actually do when we behave like humans, break it into its parts, and then ask which of those parts a machine can be made to do. When I break it down that way, it comes apart into three layers of the same shared hallucination, each one a step wider than the last:
+
+1. **Confabulation, inside one head.** How a single mind takes all its disparate thoughts and feelings, the committee from the dream car crash, and binds them into a coherent narrative of who you are and why you do what you do.
+2. **Peopling, between two heads.** How you model another person, and model them modelling you, with yourself as the central character in the web of relationships.
+3. **Shared context, across many heads.** How a group builds and maintains a shared model of the world, including the abstract ones we invent and then live inside: corporations, projects, religions.
+
+That is the order the rest of this introduction runs in: self, then pair, then group. Each of the three sections that follow takes one layer. And the whole argument about AI comes down to a simple claim that I'll keep returning to: confabulation it already does, we just call it hallucination and treat it as a bug. The other two, peopling and shared context, are the ones worth building. So start with the one happening inside your own skull.
 
 ### You are an after-the-fact observer
 
