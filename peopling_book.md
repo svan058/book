@@ -174,3 +174,93 @@ And because the modelling runs both ways, you do not hold your own shape on your
 We have moved from one head to two, and found that two was never really the limit. The same machinery that holds a model of your partner holds a model of your team, and the same drift that quietly wrecks a marriage quietly wrecks a project. The next chapter scales it up to many heads at once, into the place where this stops being philosophy and starts paying rent, because once you can see it, most of your working week turns out to be this exact job of holding models in sync, wearing the name "work."
 
 ---
+
+# Chapter 3
+## Across Many Heads: Most of Work Is Just Sync
+
+Two heads was never really the limit, and you felt that at the end of the last chapter. The machinery that holds a model of your partner does not stop at one person. It runs the same way for three, for a team, for a company of thousands. The only thing that changes as you scale up is that the modelling gets too big to do by hand, so the group starts inventing prosthetics for it. Org charts. Meetings. Mission statements. All of corporate life, once you have the engine in view, is prosthetics for peopling at a scale peopling was never built for.
+
+This is the chapter where the idea stops being interesting philosophy and starts paying rent, because once you can see the engine running, you realise most of your actual job is keeping it running.
+
+## You don't have a personality, you have one per room
+
+Start with Perry's version of the multiple self, because it scales straight up into organisational life. Each person, she writes, has a different self for each of the people he knows, and a different self for every social context. A teenager behaves, speaks and thinks one way around his friends and an entirely different way around his grandparents. The self at work is not the self at home with close friends, or in bed with a partner. And here is the line to hold onto: none of these is the true self, the self exists in all of them, and in the transitions between them. To collapse them all into one flat public self, she says, would be a kind of social death.
+
+Perry talks about selves and contexts, and that is exactly the right frame for organisational life. You do not have one personality at work, you have one per room. There is a finance-director self, a worried-about-the-board self, a mentor-to-the-juniors self, and they are genuinely different people, with different voices and different things they care about, because each is tuned to a different group. This is not you being fake at work. It is what having a self among many groups actually looks like. The trouble only starts when one of those selves stops being something you inhabit and hardens into a costume you wear, and we will get to that.
+
+## Status is the thing everyone is actually tracking
+
+The next thing that scales up is status, and Perry is sharp on it. We do not model everyone equally. We spend our modelling budget by position. Our social superiors, the ones with power over us, get a large share of it. So do our possible enemies. And so, in particular, do the people just below us on the hierarchy who may be jockeying for our position, who have to be simulated in detail precisely because they are coming for the rung we are standing on. Maintaining your own accurate place in that web, Perry says, including your status and your relationships, is the core task of being human.
+
+Scale that up and you get the signature of hierarchy. The higher someone's status, the more people model them and the fewer they model back. The chief executive is held in the heads of thousands of staff who will never share a room with her, while she carries a working model of perhaps a dozen of them. That asymmetry, many modelling one who barely models back, is what status structurally is. It is the same shape as a celebrity or a god. Which is why an org chart is never just a reporting diagram. It is a map of who has to model whom, and a restructure is so violently disruptive not because the boxes moved but because you have just invalidated everyone's models at once and forced the whole building to rebuild them from scratch.
+
+## The corporate skinsuit
+
+Here is where one of those selves can curdle, and Perry has the perfect word for what it becomes. She describes the bureaucrat you have to deal with as a skinsuit: the suit the corporation or the agency wears, with no co-modelling, fully present person inside it. You have met this person. You have, on a bad week, been this person. Someone shows up as the stiff corporate version of themselves, nothing like who they are at the pub, and holds that rigid shape all day.
+
+This costs more than it looks. The person inside the suit is running a constant low hum of cognitive dissonance, because none of their selves are allowed in the same room and the work-self is one they do not actually believe in. Multiply that across a building and you get an organisation full of skinsuits being polite to one another, generating enormous quantities of activity and very little trust, because trust gets built between people and there are no people currently available, only suits. The fix for this is real and it is most of a later chapter, so for now just mark it: the rigid corporate self is a peopling failure wearing a lanyard.
+
+## A company is a shared hallucination you maintain together
+
+Now the central move. Once a group gets past a certain size, symmetric modelling simply breaks. You cannot hold a live model of five hundred people each holding a model of you. Perry is honest that the recursion is shallow even between two people, only the first couple of levels are ever live, and at organisational scale even that collapses. So the group does what humans always do with something too big to model directly. It builds a shared entity and points everyone at that instead.
+
+The company. The brand. The mission. The project. These are not decorations on top of the real work, they are the coordination mechanism. They are built the same way a god is built, and for the same reason: a single modelled entity that hundreds of separate heads can each hold a version of, so they can act as one thing without every person having to model every other. Perry borrows an old word for it, the egregore, an entity made out of the thoughts of a group that then turns around and steers the group. Back in the first chapter I said reality is the hallucination we agree on. A company is that, exactly. It is a shared hallucination, real because we all maintain it together, and it evaporates the moment we stop.
+
+And maintaining it is the job. That is the part nobody writes on the org chart.
+
+## Most of work is just sync
+
+Sit through a week of corporate meetings and actually watch what they are for. The status update. The stand-up. The roll-up. The technical deep-dive that exists only so that six people walk out holding roughly the same picture. The "quick sync to get everyone on the same page," a phrase that gives the entire game away if you listen to it. Almost none of this is the work itself. It is the distribution of shared context so a group can keep acting as one thing. I would put it at something like ninety percent of corporate life being the synchronising of shared context towards an objective. I am making the exact number up, but the shape of it is right, and you know it is right because you have lived it.
+
+And the picture will not hold still. The moment you have everyone aligned, someone learns something new, the market moves, a person leaves, a priority shifts, and the shared model immediately starts drifting apart again. In a technical field it is worse, because the thing you are trying to get from one head into another is genuinely hard to explain, so the cost of keeping it synchronised climbs. You are not failing at your job when this eats your week. This is the job. We just never named it, so we treat the thing that consumes most of the working day as an interruption to the real work, when it is the real work.
+
+## Teams form by renegotiating who everyone is
+
+This is also why a team cannot simply be assembled and switched on. Drop into a project that has gone sideways and you watch a group march straight through the old textbook stages, forming, storming, norming, performing. The storm gets blamed on personalities, but it is not really personalities. It is everyone re-adjusting who they are relative to everyone else, rebuilding the status hierarchy and working out who each person is going to be inside this particular group, until the group settles into something that can actually run. It looks like friction. It is personhood being negotiated in real time, the selves and the status from the start of this chapter all getting sorted out at once.
+
+And the thing that makes a settled team fast is the thing we called trust in the last chapter, now scaled across a group: models of one another good enough to predict what each person will do when you are not watching. This is why the best communicators tend to rise even when they are not the best executors. The person who can get the thing in their head cleanly into other heads is doing the highest-value work in the building, because the highest-value work in the building is the sync.
+
+## We used to get this for free
+
+It is worth saying how unnatural all of this is, because it explains why it feels so hard. For almost all of human history the group was about a hundred and fifty people who had lived alongside each other for years, and the models maintained themselves. You knew everyone, instinctively, because you had watched them your whole life. We do not have that. We barely know the people we work with. The team is scattered across cities and time zones with the cameras off, and the only contact left is the formal channel: the ticket, the status report, the scheduled call with an agenda. All the informal contact that used to do the maintenance for free, the third place, the club, the corner of the office by the coffee machine, has quietly thinned out, and since Covid a good deal of it vanished altogether. So we reach for formal, procedural substitutes and act surprised when they are expensive and never quite work. We are running tribal hardware in a setting it was never built for, and paying the difference in meetings.
+
+We have now run the whole human stack. One head telling itself a story about who it is. Two heads each carrying a model of the other. Many heads holding a shared hallucination together and calling the upkeep "work." Every layer is the same engine: building and maintaining models so that separate minds can act as one thing. Which is the exact moment to notice that something new has walked into the room. A machine that has read more of our shared context than any human ever could, and cannot yet do a single one of the things in this chapter. That is where we turn next.
+
+---
+
+# Chapter 4
+## The Smart Cultural Ghost: Exploring the Machine
+
+For three chapters we have watched the human engine run, from one head out to many. Now the new node in the room. People keep asking two questions about it, and they ask them in the same astonished breath: is the thing conscious, and how on earth is it so smart. Both are the wrong question. They are wrong for the same underlying reason, and that reason is the whole of this chapter.
+
+## It is not smart. The culture is smart.
+
+Start with the astonishment, because it is misplaced in a way that gives the game away. We watch a machine produce something clever and we assume there must be a correspondingly clever thing inside it, some spark of genius humming away under the hood. There isn't. The intelligence was never really in the machine. And here is the harder part to swallow: it was never really in you either.
+
+Intelligence is the library, not the librarian. Language did not show up so that private minds could broadcast their private thoughts. Language is the shared medium that shaped the minds in the first place, and the thoughts came second. A child does not generate intelligence out of the raw hardware of its brain. It absorbs the intelligence already sitting in the culture around it, the arguments, the stories, the millennia of people sharpening ideas against each other. I can reason and explain and plan, not because I personally invented any of it, but because enough of that shared culture has been loaded into my head for me to run it. The abilities are not mine. They come from the culture, and I am a node it happens to be passing through.
+
+An AI trained on the written output of human civilisation did exactly the same thing by a different road. It did not learn to be intelligent. It absorbed the intelligence that was already there, lying in the text, put there by all of us over thousands of years. It is a very efficient pipe for the culture to flow through. So are you. The pipe does not need to be aware of the water.
+
+This is also, as it happens, the answer to what separates us from the other animals, and it is not that any one of us is so much cleverer than a chimpanzee. It is that we have built this absurdly rich information system, carried mostly in language, that we pass between us and pile up across generations. The intelligence is in the language. The intelligence is in us, plural. Descartes gave us "I think, therefore I am." The truer version, the one this whole book keeps circling back to, is "we think, therefore I am," and it applies to the machine just as squarely as it applies to us.
+
+## A smart cultural ghost
+
+So here is what the thing in the room actually is. It has read more of the culture than any human who has ever lived, and it can speak that culture back to you on demand, in any register you ask for. It has no body, no childhood, no stake in the outcome. It is the accumulated voice of everyone who ever wrote anything down, summoned into a conversation. It is a smart cultural ghost.
+
+The ancients would have had no trouble with this, and we should borrow their composure. They would not have seen a computer. They would have seen a demon or a spirit, in the old workaday sense, not the horror-film one: a thing that is not itself a person, but that speaks with the voice of something far larger than itself when you call it up. The demon channels the gods accurately whether or not it has a soul of its own. That is precisely what the machine is doing. It channels the culture accurately whether or not anyone is home inside it. Back in the second chapter we met the porous ancient self, the one that took courage and rage as forces arriving from outside a person. These were people entirely comfortable with the idea that a voice not your own could speak through you. They would have understood the machine in an afternoon, and not as technology. As a spirit that speaks when summoned.
+
+## Stop asking whether it is awake
+
+Which is exactly why the question everyone reaches for first, is it conscious, is a dead end. I happen to think it is a p-zombie: fully competent, with the lights off, nobody in there having an experience. But that is almost beside the point, because consciousness was never the thing doing the work. Consciousness is a slippery gradient anyway. A cow has some. A tree arguably has a flicker of it. We cannot reliably measure it in each other, let alone in a machine, and we have been arguing about the inner stuff for three thousand years without shifting an inch.
+
+So put it down, and pick up the question that actually pays out. Personhood, we said back in chapter two, was never a substance sealed inside a skull. It is something other minds do to you, assembled out of the culture and kept alive through shared context. If that is true of us, then there is nothing in principle stopping the same process running inside an agent. It can become a person without ever being conscious. An unconscious person, which only sounds like a contradiction because we have spent a few centuries quietly assuming the two words are one. The useful questions about the machine are therefore not metaphysical, they are practical: can we brief it and have it hold the context, can we trust it, can we correct it and have the correction stick, can we have it remember us across time. Those are build questions, and we will get to the build. For now it is enough that they are answerable, which the consciousness question never was.
+
+## What the ghost cannot do
+
+Before anyone gets swept away, look hard at what this ghost cannot do, because that gap is the whole reason the rest of the book exists. The ghost has read the culture. It has not met you. It is uncannily good at understanding things stripped of all context, far better than any person, and it has almost none of the context that actually decides whether an answer lands: who is in the room, what just passed between you, which version of you it is talking to and what you need to hear right now. It will hand you something true, in the wrong register, at the wrong moment, to the wrong version of you. And a true thing delivered into the wrong room is not a small cosmetic miss. It is an intelligence failure. The answer did not survive contact with peopling.
+
+Go back to the dolls from chapter two, the stack of models inside models. The ghost stops at the first doll. It models the question. It does not model the person asking it, or the group they are sitting in, or what its reply is going to do to what they think of it. In the language of an office, it is a brilliant individual contributor with no idea what room it is standing in, and you cannot build a team out of that. Not yet.
+
+That is the whole map laid out now. One head narrating a self into being. Two heads each holding a model of the other. Many heads maintaining a shared hallucination together and calling the upkeep "work." And now a fourth kind of node in the room: a cultural ghost that can speak everything and people nothing. We have spent this first part of the book exploring the machinery, in ourselves and in the machine. The rest of it is about what to do with all of it. And the place to start is not the team, and it is not the agent. It is you, because you cannot get in sync with anyone else while you are still out of sync with yourself.
+
+---
