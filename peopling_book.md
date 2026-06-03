@@ -427,5 +427,3 @@ The purpose felt like being a messenger, making others aware of the plans in mot
 ### The idea
 
 You can exist as a conscious entity within a larger conscious entity. Personifying the universe as God is just what helps people relate to that. These social systems already have an enormous amount of control over us and use us to grow their own complexity, and ideology and the self-identity meme are how they do it. It may be that self-identity ceases to exist outside the collective.
-
-I wrote that believing the universe was trying to become self-aware through me, specifically, which is the kind of thing a tired brain tells you to make you feel important. Take the "through me" out and what is left is quieter and truer. The universe is not waking up through any one node. It wakes a little whenever two of them manage to genuinely model each other and hold a shared reality steady between them, which is just peopling, all the way up and all the way down. The philosophical book I said I would write turned out to be this one.
