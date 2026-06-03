@@ -1,5 +1,5 @@
 # **PEOPLING**
-*Understanding How People Work, Individually and in Organizations*
+*Understanding How People Work, Individually and in Organisations*
 
 ## A Guide for Busy Executives Who Want to Lead Better
 
@@ -19,13 +19,13 @@
 - **Chapter 4:** The Smart Cultural Ghost. Exploring the Machine
 
 **Part 2: Application**
-*Solving for You and Your Organization*
+*Solving for You and Your Organisation*
 
 - **Chapter 5:** Solving for You. Meaning and a Congruent Self
 - **Chapter 6:** Solving for the Corporation. Building Trust and Alignment
 
 **Part 3: Implementation**
-*Using AI to Accelerate Synchronization*
+*Using AI to Accelerate Synchronisation*
 
 - **Chapter 7:** Reading the Room. Context Bridging and Peopling the Machine
 
@@ -49,9 +49,9 @@ Every book about working with people hands you tactics. Run better meetings. Giv
 
 This book is about that underneath. The actual mechanism by which two people, or two hundred, come to hold roughly the same picture of what is going on. The verb for it is peopling, and most of what we file under management, leadership, alignment, and culture is peopling done well or done badly.
 
-The core claim is small enough to fit in one sentence and large enough to reorganize how you read your own week: everything is about synchronizing mental models. You don't actually work with your colleagues. You work with the version of them you carry in your head, and they work with the version of you they carry in theirs, and the work goes well exactly to the degree those two models line up. When they are in sync, things move, people feel understood, decisions stick. When they drift apart you get the whole catalogue: miscommunication, rework, meetings that resolve nothing, the slow leak of trust out of a team.
+The core claim is small enough to fit in one sentence and large enough to reorganise how you read your own week: everything is about synchronising mental models. You don't actually work with your colleagues. You work with the version of them you carry in your head, and they work with the version of you they carry in theirs, and the work goes well exactly to the degree those two models line up. When they are in sync, things move, people feel understood, decisions stick. When they drift apart you get the whole catalogue: miscommunication, rework, meetings that resolve nothing, the slow leak of trust out of a team.
 
-So the book builds from the inside out. It starts in your own head, with how you actually make decisions, which is not the way you think you do. It moves to how you exist inside other people's heads, and they inside yours, and why that recursive mirror is where most of your stress is quietly hiding. Then it turns to the corporate version of the problem, where the bulk of the work turns out to be synchronization wearing other names. And it brings in AI, not as the thing that replaces the human in the loop, but as a strange new tool for doing the synchronizing. A smart ghost you can hand your context to.
+So the book builds from the inside out. It starts in your own head, with how you actually make decisions, which is not the way you think you do. It moves to how you exist inside other people's heads, and they inside yours, and why that recursive mirror is where most of your stress is quietly hiding. Then it turns to the corporate version of the problem, where the bulk of the work turns out to be synchronisation wearing other names. And it brings in AI, not as the thing that replaces the human in the loop, but as a strange new tool for doing the synchronising. A smart ghost you can hand your context to.
 
 I am not going to pretend leadership is about having the answers. Most of the time you won't have them, and the job isn't to fake it. The real job is duller and harder than that: making sure everyone is carrying roughly the same understanding of what matters and why. Get that one thing right and a surprising number of the problems you were treating as separate turn out to be the same problem.
 
