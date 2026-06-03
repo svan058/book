@@ -1,0 +1,19 @@
+# OS / build cruft
+.DS_Store
+__pycache__/
+*.pyc
+
+# ---- PRIVATE / THIRD-PARTY: never in this public repo ----
+# Chat-derived gem mining + analysis (private WhatsApp/Discord facts, real people):
+working/analysis/
+# Raw transcripts and inputs (Otter transcripts, third-party workbooks):
+working/transcripts/
+working/raw-inputs/
+# Retreat materials (Lisa's guidebook, Peter Xing's workbook — third-party IP):
+working/materials/
+# Worker run logs (quote private chat content):
+working/runs/
+# Process prompts + reviews that quote/reference mined chat content:
+working/job-prompts/
+working/reviews/
+working/drafts/reader-characters-why-they-read.md
