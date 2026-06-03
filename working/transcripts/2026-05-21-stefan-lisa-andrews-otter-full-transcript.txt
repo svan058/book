@@ -1,0 +1,240 @@
+Meeting: Stefan van der Wel and Lisa Andrews
+Date: 2026-05-21
+Source: Otter.ai
+Otter URL: https://otter.ai/u/cyAlfLRe9GXqczA8xXNCMYwlN2M
+Downloaded: 2026-05-24T05:14:53.788Z
+
+Keywords
+Book writing, corporate writing, Soma Resort, AI agents, data analytics, shared context, personhood, AI consultancy, keynotes, workshops, transcription services, Otter AI, Stephen Cotler, flow methodology, ideal reader.
+Speakers
+Speaker 1 (59%), Lisa (40%), Speaker 2 (<1%), Speaker 3 (<1%), Speaker 4 (<1%), Speaker 5 (<1%)
+S
+Speaker 1
+0:00
+Web page and stuff, and it seems, yeah, like it's a good way to, I guess, what condense your thoughts, and I guess apply it either for a corporate, for corporate writing, or for, you know, writing, writing a book. So, yeah, looking forward to it.
+Lisa Andrews
+0:20
+Yay, awesome. So glad that you join us. So, yeah, if you got questions, you want me to talk you through it. I guess the outcome, or the aim of today, was to set a few expectations of a little bit of homework of what to prepare and be ready for for the retreat, so you would love to hear about sort of your idea, your book, who it's for, and kind of
+S
+Speaker 1
+0:50
+maybe you go first, and then talk about ideas.
+Lisa Andrews
+0:54
+Yeah, awesome. So we've got the five days and Soma Resort is a private retreat on large grounds. I don't know if you've seen Nine Perfect Strangers, the movie, the TV series, so it's Nicole Kidman series, and it was filmed there. We actually watched it to be able to see the different venue and rooms and all the rest. It's quite a lovely space, and there's I think there's going to be 12 of us all together, maybe 13, so eight people writing books, and the team, so and there's a few of the team that are writing books as well, so a couple of those people that'll be there have already written books before, so it's going to be a quite nice, experienced crew. And I haven't finished my book. I've been talking about it for five years, so this is also my way of locking it in and being able to sort of send in stone. They say that you can, most people type at 50 or 60 words per minute, you speak at 100 words per minute, but you think at 400 words per minute, and so if you actually think about that 100 words per minute that you speak, then you can actually write a really good quality book in 15 hours, so even a friend just wrote a book, and it was a three hour read, so depending on the I was reading the same speed that I speak, so depending on the size of book and the style of book that you want to write, you know, we're really looking at how do we actually frame it in a way, we've got a guidebook and a workbook of, you know, just getting clear on your thoughts, who it's for, that kind of thing, chapters, what's in each chapter, and unpacking that, so that you would be able to sort of talk through with an Otter AI or a transcript, and be able to articulate your thoughts to get everything, sort of all of your ideas and everything out and on paper, ready for the first edit by Friday afternoon.
+S
+Speaker 1
+3:05
+That sounds awesome.
+Lisa Andrews
+3:07
+Yeah, so
+S
+Speaker 1
+3:07
+then I guess the
+S
+Speaker 2
+3:08
+hard work
+S
+Speaker 3
+3:08
+is to make sure you're clear on what you want to write about.
+Lisa Andrews
+3:10
+Yeah, so yeah, what I'd love to sort of unpack with you is who's it for first. So who is this a book that you want in every airport around the world, or is it a business card for getting more work? Is it a, you know, what sort of tool do you want to use the book for, and the sort of meaning of that, and then ideally we can work out each chapter, so that's going to be a homework of going through, of, you know, what's the 10 chapters or so that you want to have in your book, and how does it sort of relate to the, the ideal reader that you're, you're aiming for.
+S
+Speaker 1
+3:57
+Yeah, I guess so. In terms of what I want to write about, I've been thinking about, because so I had wanted to write like a sci-fi type book earlier. I'd done a couple of what is it, non-fiction, so creative writing courses, where it's really more like, I guess, stream of consciousness, which I guess is talking to an extent, then then you know, after that, I've done a lot of blogging, I guess, on geopolitics, and I guess the future, like technology, you know, some of the areas that Pete's quite interested in, and so, you know, another area could be around where I see technology heading and where I see society heading, then the third one, I guess, is what might, what I do in terms of work, which is more data analytics, and quite a lot of AI. It's quite AI heavy, and then I guess my side projects is really getting into the agentic, both into agentic, you know, like, all the, like, I have, like, an open floor, it's like my personal assistant, and doing a lot of work around, like, the nature of personhood and how it relates to agents, and so what I'm leaning towards is actually that third one, but as opposed to tying it directly back to my work, but then I'm a little bit on the fence, because at the same time, like, I have, like, a consulting company, I can see the value in putting out something which is very much just focused on, which is very much focused on the new way of software development, and in the agenda, era, and my thoughts on it, and I'm kind of thinking I could probably combine the two, so I guess what I mean by that, just just talking about the talking through the idea, is that what I've come to realise, having, like, you know, currently running like a team doing a major migration from a warehouse migration into Google Data Platform, and having also been working a lot with agents, like setting up agents, configuring them, giving them the right context, as well as I guess doing research around the nature of what personhood is, I've come, I guess, the realisation of, well, at least the realisation I can see is that people and agents are quite similar, and that I guess what makes us, what makes us a person is more the cultural fabric and the way that we build our own kind of persona, but that's not some something that emerges out of the person, out of the human, is more something that kind of metastasizes within a person from the culture, and really, so then really, when you look at agents, you know, with say, whether you're talking about their we whether you're just defining a role that this agent's doing this, or you're giving it context, or you're getting it, it's interacting with you, really, it's more just a ghost, it's kind of a ghost in the machine around personhood, and so what I mean by that is that, so a lot of, at least in the stuff that I've been reading, a lot of personhood is actually a level of recursive reflection. So, what I mean is, I talk to you, I need to think about who you are, and then I need to think about how I am perceived by you, which requires me to have already modelled what you think, and then to remodel how I should interact with you, right? But this isn't something that's like inherent to what consciousness is, as an example, like you know, animals, plants, everything can has a level of consciousness, it's actually more just a product of that recursive self modelling, kind of more like what Hofstetter talks about, like I'm a strange loop, and it's just being applied to culture, and so I guess what I'm saying is a lot of what personhood is, is just it's a cultural phenomena, and if you take that view, then there's nothing really stopping you applying that to agents, and so agents can be persons, maybe say unconscious persons, but they're still persons, and so I guess that was the first part of my thinking. The second part is that, obviously, I'm building out agents, I'm also managing teams, and I'm also being managed, right? Or I have outcomes, people asking me to do things, and what I've noticed between the two is that the, I guess, the way that you operate, and also the problems that you have are the same things. Sometimes you go down a rabbit hole, sometimes you've overcooked it, sometimes you didn't really understand it, sometimes you confabulate, like, so confabulation is when you kind of invent a narrative around why you did something after the fact, or you hallucinate, you're not quite seeing it clearly, and then often like a giant transformation programme, that's why you have a lot of different people, you have governance, you have checks and balances, your workshops, because that's all just about being able to pressure test your context model and build a shared context model, and I guess so. Where I'm going with that is that the same issues that you have with human people are the issues that you would have with AI agents, and so if you can figure out how to build that shared context to support both agenda kind of safe development or collaboration. It's the same thing that you need to do with humans, and I think, like, especially in consulting, as I guess you'd be aware, like most of the art is simply in being able to communicate information from me to you in a way that you can understand, right, because if I have a whole lot of information, but I can't explain it to you in a way that you understand, then that information is not going to transfer into a shared context, as an example, right, whereas with agents the issue is that they don't have a lot of the shared context, so they're very good at understanding things without context. They're amazing at understanding things without context much better than people. However, they don't have most of the shared context, so I guess some of what I've been working on, like as a side project, is more about building out that shared context memory bank and coming up with ideas around how it could be implemented in the workplace, in terms of, you know, having agents and say every team's collaboration meeting, having agents, you know, scouring all of the information about how the company operates, about how the IT systems work, and then using the agents more as like a shared context layer in that respect, as like kind of a collaborator, but you know, with the overall thinking that you, but you treat them as a person, you think about it as a person, and you try and design it or architect it to be a person, so I know that's all I mean, it needs to be condensed, that needs to be brought together, but that's that's kind of where I've been thinking, so a little bit of exploration about, around, you could say conceptual stuff and philosophy, but then trying to bring it into how it can be implemented in a way that supports, you know, supports organisations that are trying to, everyone's trying to move to agenda, but what does that mean? And this is just a way of doing that with the added kind of thing around understanding people or looking at people in the same way that you kind of look at AI. So, yeah, I guess that's that's where I'm thinking. Yeah,
+Lisa Andrews
+12:00
+that is awesome, and that I imagine that that would then lead to keynotes, workshops, you know, a lot of what you're probably doing with your consulting as well.
+S
+Speaker 1
+12:10
+Yeah, and that, yes, so I think I probably set the probably set the bar low, so if I got it, if I got out of it, you know, some good LinkedIn posts that boost marketing, that'd be great, you know what I mean. If I ended up writing a book, well, that's that would be icing on the cake, but I guess I'm setting my expectations quite low. Well, it's rather what I mean, it's I'm just trying to be realistic around, you know, the time that there's going to be invested and things like that, but yes, like I said, as a, I mean, my core work is around data and analytics, but me and my business partner are also now collaborating with another couple of guys, and we're setting up an AI consultancy, and so the idea would be material to support, you know, sales, but also I guess material to help you coalesce your own thinking, but this wouldn't necessarily just be keynotes and workshops, that's not really my style. What I mean by that is that I'm more delivery, so I'm more like getting building things for companies. So you need a lip, but what I mean is you need a level of, you need a level of information to sell and to show that you've got the vision, but I'm not really, I guess I'm just not some people are just focused on, say, the vision. They'll come in and do the keynotes and do all the talks, but I'm more kind of, I want a bit of vision, just as a lead funnel, or just as a way of proving, of showing authority to then focus more on delivery, if that makes sense.
+Lisa Andrews
+14:02
+Yeah, total sense. It's almost like the three models that we use in the consulting part of the business is do it yourself, do it with me, or do it for me, and that's almost like the personas, it's the do it yourself, like here's all the content, it's a startup, they can't afford to pay to do things, so you just give them all the material for the do it with me is here's all the material, but we'll help you with hit parts, and you do some parts yourself, or the ideal client is just do it for me, and here's a big budget, and so you know you can sort of separate all of your information and sort of say here's all of the things, and then you know, you'll get a few people that don't have the budget to use your service do it themselves, but then most people will come and say, you know what you're doing, can you do it with me or can you do it for me, and that's the, that's the goal. I'm interested in your thoughts of AI agents, you know, all happening now, but what happens when you throw robotics on top and humanoid robots? Are you following that sort of next? Next, because the same principles,
+S
+Speaker 1
+15:16
+you're right. So, I only given it a limited amount of thought, so I guess I have been more focused on understanding. I guess, as I said, the realisation was more around that culture itself is what, like, what we're communicating, and this is just part of the culture. It's not like something that outgrows out of us, I think, with human humanoid robots. I mean, it's gonna, it's gonna be huge at the moment. It seems to be more focused around mobility and getting them to mobility and getting them to learn how to do all of the, you know, mechanical behaviours, like, in other words, to walk properly, or to get on the conveyor belt, and things like that. Yeah, I mean, ultimately they replace all kind of manual labour, right? Ultimately, it's going to take a while, and I guess the other issue is just more safeguards, because you can easily see a future in which, if you've got a whole lot of mechanical labour, the first thing you can see is that you're likely to move away from a democratic governance structure. I mean, a lot of what, a lot of the reason, you know, at least from the 1950s through to maybe say recently, the reason why we had kind of a middle class led liberal democratic order is because the, you know, people, people were the labour in the factories. They were the soldiers in the military, and you know, everyone was well educated. Everyone had, I guess, for better or worse, limited media, and so had quite a shared, had shared context, or had a shared narrative, or view of the world, and if I look at where we're heading, it's not necessarily great from that perspective. So, one, humans are losing their monopoly on violence because robots are going to do it. Two, humans are no longer required for factories. Three, we don't have these built shared narratives, because we, you know, there's a diverse amount of media that we can read, and not only that, but because robotics, or robots, you know, it's capital intensive, and because we effectively, you know, we have, say, since Thatcher or Reagan, we've really moved, you know, Reaganomics, we've moved back to a more Gilded Age style economy. It just means that, you, you know, it kind of brings back all of the sci-fi dystopias from the 80s, right? Like, whether it's Neuromancer, William Gibson, or there are a lot of sci-fi dystopia talking about a corporate techno state run by the elite, right, and so I would say that while robots, while robots are going to happen, and while it's great, we are reaching a point of danger in terms of democracy, you know, the end of democracy, back to a techno-feudal type state, where a nobility rule, and I mean, you know, there's even the question of the utility of humans, a lot, a lot of humans, once you get to that kind of state, and I think, I think the other thing that, which is, you know, what, probably why I'm more aligned with, you know, Pete, and the transhumanist kind of ideology, the other thing that concerns me is that, obviously, we had this very strong kind of, you could say, Christian moral system in the West, and we move to a more post-modernist outlook, in which there is no universal truth, it's everything is subjective, build your own truth, but if you lose, I mean, I'm not trying to say that, obviously, Christianity is like an objective truth. I'm just trying to say it as a moral framework, but if you remove that moral framework and you remove kind of democratic governance, and you consolidate parent and elite, then the elite is not bound by a moral framework. They're not worrying that they're going to go to hell if they do bad things. You could, you could end up in a pretty bad place, I guess, is what I would say.
+Lisa Andrews
+20:08
+Yeah, interesting. And what does your.. so what would your AI advisory.. what's the ideal client there? What's. what's sort of corporate,
+S
+Speaker 1
+20:21
+yeah. Let me find the pack somewhere on this computer, somewhat semi impact, maybe. Yeah, no, I'm not gonna find out on time. So I think we're still kind of storming, and the reason, the reason we're storming is because I'd say me and James, we have done more big tech corporate, you know, like I'm working with, like IG, I care at the moment, which are big, you know, big budget, big company, big project type companies, whereas Robin, he's been more small to medium, like he's doing a lot of Salesforce consulting, and then Toby, he is probably small to medium, he's doing like monday.com and things like that, and so then I think we're trying to get a gauge on which kind of segment of the market would be best, I don't want to do like I think some people are starting to go out and just installing OpenCloud for like 1000s of small businesses, you know, and making revenue of that. I don't really want to do that at the same time. The high corporate level, that's difficult because it's highly regulated. There's a lot of regulatory moat. It seems much easier if you're a big four to do those kind of companies, so I guess we're still trying to figure it out, but I think because in all likelihood, I guess Robin and Toby are going to be doing more of the sales, and then I'll be more like a Pete, which is, you know, I come in and sound technical, you know, provide proof of whatever technical leadership, probably the small to medium. Well, the medium is probably where we'll end up, because it's easier in terms of getting that well, getting the leads, but also getting through all of the, you could say, the regulatory side of things. So, if you, you know, if they're not financially, if they're not a regulated, financially regulated company with a whole lot of oversight and a whole lot of governance, it can make things easier to do from an AI perspective.
+Lisa Andrews
+22:31
+Yeah, makes total sense.
+S
+Speaker 1
+22:33
+Again, we've only had a few meetings, we're kind of storming it out, we're putting packs together. I think we've got one league coming through soon, so it's more, you know, early days, I guess, but this is, but working with people who are all established in terms of, you know, they're all selling stuff right now, then it's just about like trying to sell the next thing.
+Lisa Andrews
+22:57
+Perfect. Yeah, I can help you with that as well. I've been doing your lot of work around AI advisory as well, we've got a number of clients who are in that sort of medium business, and our persona for them, it's Mature Matt, and you know he's been running a business for a long time, he's got somewhere, you know, 15 to 50 staff, and just wants you to do it for him, so yeah,
+S
+Speaker 1
+23:24
+I mean, it'd be awesome, Chad, to have a chat from, and yeah, I can try and get some material prepared, I mean, and like, I think, like you said, I've got a lot of ideas, but I need to try and bring it in and focus it, and I think, and have a commercial focus, but I want to have, I want to have a bit of kind of, I guess, intellectual, you know, stuff in there as well.
+Lisa Andrews
+23:49
+Yeah, that's perfect. So I'm going to send you over a workbook, I'm just working on finalising it today, but it's, let me sort of show you
+S
+Speaker 2
+24:02
+the I
+Lisa Andrews
+24:03
+the the raw on designed this getting my screen there and there, so this is the guidebook, so my biggest tip is to, you know, even just work your way through the book, but with Otter or something on, and record all of your thoughts about all the different,
+S
+Speaker 4
+24:31
+like a voice transcription.
+Lisa Andrews
+24:34
+Yeah, sorry, yeah, yeah. So it's just a do any voice recorder, so probably decide before the retreat what software that you want to use for your transcription services. I'm sure you've probably already got one, but if you can have one that's, you know, dedicated, where you've got a project set up, whether you use Claude or
+S
+Speaker 2
+24:56
+just
+S
+Speaker 1
+24:56
+on that one, because it's an interesting thought. Like, so, in meetings, I often I will use a pen and paper and write things down, but I think a lot of that is more about it forces you to think, and it actually kind of helps you memorise. I hardly ever read my notes, and I know when I was doing, when I was doing fictional fiction course, they would also say we want you writing free flow, but then I think I get what you're saying. So, if you can speak much faster than you write, and it's kind of a freer flow, then it might be better than, because you can always re-edit, you can always edit it after the fact, right?
+Lisa Andrews
+25:35
+Yeah, and that's where the writing part comes in. So, you know, one of the concepts that I love is that a book should just flow through you, it should pour out of you, and you know, if you've got any blockers or writing or anything like that, that's, you know, sort of stopping just being able to be in that free thought, because you know where we're talking about the book now, and it's like this and this and this when you're actually talking to someone, and I'll send you the transcript from our call, is that you know you can explore different ideas, and then you can sort of talk through it all in, and just get it out, and then you write,
+S
+Speaker 1
+26:10
+yeah, yeah, it's like it's basically stream of consciousness,
+Lisa Andrews
+26:15
+yeah,
+S
+Speaker 1
+26:15
+in a lot of ways, like what I kind of feel, in a lot of ways, what humans do is very similar to what an LLM does, you just kind of start going, and then you know,
+Lisa Andrews
+26:25
+yeah, yeah, definitely. And so this is where you know I've used a lot of Stephen Cotler, sort of weaving through this, so you know, unpacking all the chapters is the goal first, and then when we're at the retreat, we're going to use a lot of sort of the flow methodology, so that we can get everyone in a really good state and just have things flow out of them. Yeah, the goal, so the guide book, it's really foundation structure chapter unpacks the wrapper and daily practice. So, as we go through that, this is the team that will be here. We've also got Dave Hucker, who's going to be filming, so any filming that you want done, professional filming, you will have blocks where you can just book him out and he'll do all of that, and I'm just going to skip through some of this for sort of foundations, I mean, you'd be familiar with the massive transformative purpose, being part of transhumanism. It's like, what's that big goal? What do you love doing that? Insects with the problem, so you know those are just a couple of sort of goals at the beginning. The retreat goal,
+S
+Speaker 2
+27:35
+any ideas
+S
+Speaker 1
+27:35
+to fill this out before the retreat,
+Lisa Andrews
+27:38
+either before or on the first day, so as much as you can do before, you're going to be ahead, but you know by giving you this now, then at least that sort of gets you. It might take day one and day two to get all of this done, and then we get into the writing, or if you can go through and,
+S
+Speaker 1
+27:55
+and you recommend just stream of consciousness answer each question at least initially, because you can always refactor it,
+Lisa Andrews
+28:01
+yeah,
+S
+Speaker 1
+28:02
+yeah, okay,
+Lisa Andrews
+28:03
+yeah.
+S
+Speaker 5
+28:04
+I've never tried repos. It's cool, and yeah,
+Lisa Andrews
+28:06
+I mean, even the purpose for the book, we've just spoken about that now, 12 months after the one thing, if the reader only takes one thing, what is it? You know, maybe it's that they need your services for AI advisory. This is just a standard persona ideal reader. I do, I do like the idea of an ideal reader, of you know, if it is for someone specific, like get a picture of one human and even have a photo, maybe it's a client who you've done the work for before, and so when you're actually talking through the book, you're really clear on who it's for, and you don't stray from it. So, these are all pre-questions, but this is the big part: is the structure. So, I like this structure first, and the writing is just colouring in. So, once you've actually sort of mapped out those chapters, working titles, but it's the chapters that I really love you to sort of put some thought into, of exactly, you know, what each chapter would be. How many chapters do you want? Is it 610, 12? You know, this is saying that 10s tends the right amount, but in the chapter unpacks it's the, you know, what are the benefits, and what it.. what are you going to be delivering, which I'll just show you there. So, what's your.. what's your chapter name? What's a sexy name for it? What benefits are the.. is that person going to get from reading the chapter? What are you teaching? What are the elements in
+S
+Speaker 2
+29:42
+it?
+Lisa Andrews
+29:42
+Any objectives, objections, or fears, and you know, quote or a story that you're going to share that anchors that chapter. And so the idea is that if you can get your sort of chapter structure of what chapters you want, unpack your chapters, then you can actually read, and like it's colouring in between the lines. Once you've got the structure, it's really easy to let the rest flow out of you, and that's that sort of, you know, part of the by doing it in five days, you know, four and a half days, is this is this is the goal to be able to give your framework to help it flow through you.
+S
+Speaker 1
+30:24
+Yeah, yeah. And then
+S
+Speaker 2
+30:26
+this is
+Lisa Andrews
+30:30
+where you know, once you've got that, you know, if you can just let it flow through you, you can put this document and your transcript into Claude and get it to, you know, pretty much use your language, you know, exactly as you say it. I did actually get Claude as well, couple of other little hacks and tips, because I've been using Otter AI or transcript services for five years now, a long time, and I do a lot of keynotes that I record when I'm on stage or on a panel, I always stick my phone in my pocket and record it. I've asked it to give me all of the stories that I frequently share, because most of us will have probably about 100 stories, you know, maybe 50 that you repeat over and over when you meet someone, when you introduce yourself. What are those stories? I got Otter to sort of think about, here's all the stories that you share all the time, and then you know I could actually use those stories in each of those. What am I going to anchor the chat? Yeah,
+S
+Speaker 1
+31:33
+yeah, that's awesome. That's awesome, because, yeah, I guess, because you've got all that information, you've already got all that data, it's crazy, isn't it? Like, how just the more data you're capturing on yourself, the more future use you've got for it. That's cool.
+Lisa Andrews
+31:50
+Yeah, and a lot of us on the course are pretty tech savvy, so there's three of us that are Singularity University faculty, including Peter, Senior Corps for myself, and yeah, so it's going to be quite cool of sharing, sort of, you know, different tips and things of how people, you know, have been writing themselves, or you know, all those little tips. I think Francisca has written eight books, or so. I think Sam Cawthorn has written about the same, so yeah, there's a bit of experience there.
+S
+Speaker 1
+32:25
+Yeah, I'm looking forward to it. It's very
+Lisa Andrews
+32:28
+awesome. Um, so any other questions, sort of around expectations? I'd love to catch up again, you know, maybe even on Monday or Tuesday after, you know, I've sent this document over to you, let you sort of digest and let that sort of permeate of the conversation today,
+S
+Speaker 1
+32:47
+yeah, yeah. I think I think that's a good idea. We should do a catch up next week, maybe I'll try and book some. If you send me the handbook and that, I think you had a booking system.
+Lisa Andrews
+32:57
+Yeah,
+S
+Speaker 1
+32:57
+I'll book something in, because I can kind of just go through it and just a little bit. No, I mean it. It sounds really great. I mean, I guess the only thing in my mind is it's just more like, oh, can I do this? You know, maybe you know it's more like, what do you call it? I need to overcome the.. what am I trying to say? What I'm trying to say is, like, I just need to believe I can do it, because at the moment I'm still a little bit hitched, it's like, oh, well, maybe you know, I'll learn how to write a good LinkedIn post or something like that. It's just more like, yeah, just need to get in the frame for, you know, if that makes sense, like, it's just a bit, it's just sounds a bit scary writing a book, you know, but
+Lisa Andrews
+33:43
+I have battled with that for a long time, so yeah, I understand. I think this is, and you're doing it this way, it's really, you know, you've got a book in you, you've probably already, you know, created so much content that it's, you know, how do we put it all together in a way that you know, even once you collect all of the information, all of your stories, you know, your sort of lessons, chapters, whatever they may be, you can repurpose each of those. You know, there's so much content in that for, you know, years of your social media posts or different repurposing of that, a number of different posts, each chapter would I imagine have a couple of different LinkedIn posts in it, so it's more capturing and getting it out, but yeah, we'll take you through a few sort of different processes to get there, but would really love you to kind of let all this this information settle in today.
+S
+Speaker 1
+34:45
+It sounds really good. It sounds really good. I will put some, put some time into it, and then we can catch up again, and yeah, just see how we're going. Yeah,
+Lisa Andrews
+34:59
+awesome.
+S
+Speaker 2
+35:00
+Sorry,
+S
+Speaker 1
+35:00
+I'm getting slightly distracted because I'm just thinking about my 10 o'clock
+Lisa Andrews
+35:05
+and then we'll book another like as many calls as we need next week, but I would really love to sort of help you get to that point where you know you're excited and you start the retreat and it all just flows out.
+S
+Speaker 1
+35:17
+I'm looking forward to it. Yeah, yeah, I will do it. Thank you very much, Lisa.
+Lisa Andrews
+35:20
+I'm so nice to see you.
+S
+Speaker 1
+35:22
+You too.
+Lisa Andrews
+35:23
+Bye bye.
+
+
+
