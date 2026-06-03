@@ -7,7 +7,9 @@ __pycache__/
 # Chat-derived gem mining + analysis (private WhatsApp/Discord facts, real people):
 working/analysis/
 # Raw transcripts and inputs (Otter transcripts, third-party workbooks):
-working/transcripts/
+working/transcripts/*
+!working/transcripts/what-is-consciousness-stefan-talk-full-transcript.md
+!working/transcripts/what-is-consciousness-stefan-talk-key-ideas.md
 working/raw-inputs/
 # Retreat materials (Lisa's guidebook, Peter Xing's workbook — third-party IP):
 working/materials/
