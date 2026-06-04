@@ -1,0 +1,70 @@
+=== CORPUS ===
+          metric          |   value    
+--------------------------+------------
+ wa_latest                | 2026-06-04
+ wa_earliest              | 2024-06-07
+ messages_total           | 98343
+ discord_messages         | 24503
+ wa_messages              | 73840
+ wa_chats                 | 130
+ wa_distinct_senders      | 125
+ wa_distinct_sender_names | 122
+
+=== READ THE ROOM: group vs dm ===
+ kind  | chats | msgs  
+-------+-------+-------
+ group |    49 | 44598
+ dm    |    81 | 29242
+
+=== CONTEXT BRIDGE: people across chats ===
+          metric          | value 
+--------------------------+-------
+ people_in_multiple_chats | 38
+
+=== FACTS TOTAL/STATUS ===
+   metric    | value 
+-------------+-------
+ facts_total | 27596
+
+   status   |   n   
+------------+-------
+ accepted   | 13340
+ superseded |  8410
+ rejected   |  3957
+ stale      |  1888
+ active     |     1
+
+=== FACTS BY TYPE ===
+  fact_type   |   n   
+--------------+-------
+ attribute    | 15707
+ event        |  2479
+ action       |  2436
+ intent       |  2251
+ relationship |  1870
+ decision     |  1139
+ correction   |   945
+ idea         |   769
+
+=== ACCESS SCOPE DISTRIBUTION (governed bridge) ===
+ access_scope | chats 
+--------------+-------
+ chat         |   403
+ full         |    27
+ guild        |    22
+
+      person      | facts 
+------------------+-------
+ Stefan           |  8937
+ realClaw         |  2448
+ Parsa Yazdani    |  1265
+ Clarence (Dad)   |   664
+ Daniel           |   634
+ Burak            |   617
+ Dana M           |   426
+ Dominic          |   324
+ James Choi       |   314
+ Dien             |   294
+ Oliver Engelmann |   278
+ Audacious        |   262
+
