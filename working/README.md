@@ -1,23 +1,24 @@
-# Book Retreat
+# working/
 
-Book-writing retreat prep workspace for Stefan's 2026 Soma Resort retreat.
+Everything that isn't the book itself. The master manuscript (`peopling_book.md`) lives at the repo root.
 
-## Project Links
+## Sorted by type
 
-- GTD project note: N/A - workspace-only
-- Spec: N/A
-- Todoist project: N/A
-- Architecture ref: N/A
-- Data authority: Otter.ai for call transcripts; local workspace files for downloaded exports
-- QMD collection: N/A
+| Folder | What | Processed? |
+|--------|------|-----------|
+| `drafts/` | Chapter WIPs, experimental sections, voice notes | Yes — written for the book |
+| `ch7-evidence/` | Ch7 research queries, LinkedIn methodology | Yes — folded into Ch7 |
+| `analysis/` | Gem mining, evidence maps, structural reviews | Yes — outputs used in book |
+| `reviews/` | Manuscript feedback (Pascal, Claude) | Yes — informed revisions |
+| `research/` | Perry, isolation/inner-peopling, published article ref | Partially — notes for future use |
+| `transcripts/` | Talk transcripts (consciousness, Jiang Xueqin) | Partially — some mined, some pending |
+| `source-materials/` | Retreat guidebook + workbook PDFs | No — original reference docs |
+| `raw-inputs/` | Unprocessed transcripts, raw sources | No — not yet reviewed |
+| `feature-requests/` | Ideas / future book directions | No — not yet actioned |
+| `job-prompts/` | Claude dispatch prompts | N/A — agent plumbing |
+| `runs/` | Claude run logs (prompt + result) | N/A — agent plumbing |
+| `archive/` | Superseded versions | Dead — do not edit |
 
-## Materials
+## Top-level files
 
-- Raw Discord transcript input: raw-inputs/2026-05-21-stefan-lisa-andrews-otter-ai-transcript-discord-raw.txt
-- Full Otter transcript: transcripts/2026-05-21-stefan-lisa-andrews-otter-full-transcript.txt
-- Existing meeting note: ../../memory/meetings/2026-05-21-stefan-lisa-andrews-book-retreat-prep.md
-- Workbook/guidebook exports are currently staged at /Users/stefanclaw/.openclaw/media/outbound/book-retreat/
-- Current filled workbook draft: book-workbook-filled-v2.md
-- Gem-mining plan: analysis/gem-mining-plan.md
-- Peter Xing populated workbook: materials/Peter_Xing_Post_AGI_Planning_Workbook_Populated_Final.docx
-- Peter workbook text export for mining: raw-inputs/peter-workbook/2026-05-24-peter-xing-post-agi-planning-workbook.txt
+- `book-overview-and-workbook-answers.md` — Book structure overview + Peter's retreat workbook responses

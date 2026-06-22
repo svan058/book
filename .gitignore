@@ -9,7 +9,7 @@ working/analysis/
 # Raw transcripts and inputs (Otter transcripts, third-party workbooks):
 working/raw-inputs/
 # Retreat materials (Lisa's guidebook, Peter Xing's workbook — third-party IP):
-working/materials/
+working/source-materials/
 # Worker run logs (quote private chat content):
 working/runs/
 # Process prompts + reviews that quote/reference mined chat content:
